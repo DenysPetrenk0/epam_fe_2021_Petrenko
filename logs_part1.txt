@@ -1,0 +1,28 @@
+596d09f HEAD@{0}: merge feature4: Fast-forward
+6f56729 HEAD@{1}: merge feature3: Fast-forward
+5403158 HEAD@{2}: checkout: moving from feature4 to develop
+596d09f HEAD@{3}: checkout: moving from feature3 to feature4
+6f56729 HEAD@{4}: checkout: moving from develop to feature3
+5403158 HEAD@{5}: checkout: moving from feature4 to develop
+596d09f HEAD@{6}: commit: HW13-Git: add styles new
+6f56729 HEAD@{7}: checkout: moving from feature3 to feature4
+6f56729 HEAD@{8}: commit: HW13-Git: add image source in index.html
+bf8cf52 HEAD@{9}: commit: HW13-Git: add images new
+5403158 HEAD@{10}: checkout: moving from develop to feature3
+5403158 HEAD@{11}: checkout: moving from feature2 to develop
+5403158 HEAD@{12}: checkout: moving from feature1 to feature2
+5403158 HEAD@{13}: merge develop: Fast-forward
+7877428 HEAD@{14}: checkout: moving from develop to feature1
+5403158 HEAD@{15}: merge feature2: Fast-forward
+7877428 HEAD@{16}: merge feature1: Fast-forward
+1de3acd HEAD@{17}: checkout: moving from feature2 to develop
+5403158 HEAD@{18}: commit: HW13-Git: add styles source in index.html
+8247bf8 HEAD@{19}: commit: HW13-Git: add styles folder with styles source inside
+7877428 HEAD@{20}: checkout: moving from feature1 to feature2
+7877428 HEAD@{21}: commit: HW13-Git: add image source in index.html
+838ab94 HEAD@{22}: commit: HW13-Git: add images folder with image inside
+1de3acd HEAD@{23}: checkout: moving from develop to feature1
+1de3acd HEAD@{24}: commit: HW13-Git: create index.html
+595fcb7 HEAD@{25}: checkout: moving from HW13-Git to develop
+595fcb7 HEAD@{26}: checkout: moving from master to HW13-Git
+595fcb7 HEAD@{27}: clone: from https://github.com/DenysPetrenk0/epam_fe_2021_Petrenko.git
